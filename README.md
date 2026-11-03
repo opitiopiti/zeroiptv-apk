@@ -1,7 +1,5 @@
 # 📺 ZeroIPTV
 
-# Tek bir server üzerinde çalışacak şekilde TASARLANMIŞTIR.
-
 **Android TV ve Android cihazlar için geliştirilmiş modern IPTV oynatıcısı.**
 
 ZeroIPTV; canlı TV kanallarını, filmleri ve dizileri tek bir uygulama üzerinden yönetmek ve izlemek için tasarlanmış, hızlı ve kullanıcı dostu bir medya oynatıcısıdır.
@@ -106,3 +104,6 @@ Kaynak kodları bu depoda yayınlanmamaktadır.
 <p align="center">
   Made for Android TV & Android 📺
 </p>
+
+
+# NOT : Tek bir server üzerinde çalışacak şekilde TASARLANMIŞTIR.
