@@ -86,15 +86,38 @@ Yeni sürümler, hata düzeltmeleri ve iyileştirmeler GitHub Releases üzerinde
 
 📌 [Tüm Sürümleri Görüntüle](https://github.com/opitiopiti/zeroiptv-apk/releases)
 
-## 🔒 Kaynak Kodları
+## 🔒 Telif Hakkı ve Lisans
 
-ZeroIPTV kapalı kaynak kodlu bir projedir.
+**Copyright © 2026 ZeroIPTV. All Rights Reserved.**
 
-Bu depo yalnızca uygulamanın derlenmiş APK sürümlerini ve sürüm duyurularını paylaşmak amacıyla kullanılmaktadır.
+ZeroIPTV, kapalı kaynak kodlu (proprietary) bir yazılımdır. Tüm hakları saklıdır.
 
-Kaynak kodları bu depoda yayınlanmamaktadır.
+Bu GitHub deposu yalnızca ZeroIPTV uygulamasının resmi APK sürümlerini dağıtmak ve güncellemelerini yayınlamak amacıyla oluşturulmuştur.
 
----
+Kullanıcılara uygulamayı kişisel kullanım amacıyla indirme ve cihazlarına yükleme izni verilmektedir.
+
+Hak sahibinin önceden yazılı izni olmadan:
+
+- APK dosyasının değiştirilmesi, yeniden paketlenmesi veya farklı isimle yayınlanması,
+- Uygulamanın başka platformlarda veya depolarda yeniden dağıtılması,
+- Uygulamanın satılması veya ticari amaçlarla dağıtılması,
+- Uygulamanın kaynak kodunun izinsiz kopyalanması veya türev sürümlerinin oluşturulması
+
+yasaktır; yürürlükteki mevzuatın izin verdiği istisnalar saklıdır.
+
+### ⚠️ Yasal Uyarı
+
+ZeroIPTV herhangi bir IPTV aboneliği, canlı TV kanalı, film veya dizi içeriği sağlamaz. Uygulama yalnızca kullanıcıların erişim yetkisine sahip oldukları medya kaynaklarını oynatmak için geliştirilmiştir.
+
+İçeriklere erişim ve kullanım haklarına ilişkin sorumluluk kullanıcıya aittir.
+
+### 📦 Resmi Dağıtım
+
+ZeroIPTV'nin resmi APK sürümleri yalnızca aşağıdaki GitHub deposu üzerinden yayınlanmaktadır:
+
+https://github.com/opitiopiti/zeroiptv-apk/releases
+
+**© 2026 ZeroIPTV — Tüm hakları saklıdır.**
 
 <p align="center">
   <strong>ZeroIPTV</strong><br>
